@@ -2,14 +2,17 @@
   <img src="https://media.giphy.com/media/oe2xrueDbEbsCTd1iT/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <a href="https://t.me/yaroslav_chertov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://www.youtube.com/channel/UC4BkLXt5pYKjrRZKdGc3gkQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
   <a href="https://www.instagram.com/gardarika__workshop/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 <h1 align="center">
