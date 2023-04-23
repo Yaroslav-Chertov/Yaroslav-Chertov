@@ -11,9 +11,6 @@
   <a href="https://www.youtube.com/channel/UC4BkLXt5pYKjrRZKdGc3gkQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
   </a>
-  <a href="https://www.instagram.com/gardarika__workshop/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </div>
 <h1 align="center">
   Hey!
