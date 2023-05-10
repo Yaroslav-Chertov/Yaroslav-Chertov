@@ -36,4 +36,4 @@ I am a Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Yaroslav-Chertov=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yaroslav-Chertov&theme=dark)](https://git.io/streak-stats)
