@@ -36,4 +36,4 @@ I am a Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Yaroslav-Chertov=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Yaroslav-Chertov=DenverCoder1)](https://git.io/streak-stats)
