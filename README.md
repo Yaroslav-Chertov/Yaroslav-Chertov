@@ -2,9 +2,9 @@
   Hey! I'm Yaroslav.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<h2 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Frontend+Developer+from+Russia." alt="Typing SVG" /></a>
-
+</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -20,7 +20,6 @@
 ---
 
 ### About Me :
-I am a Frontend Developer from Russia.
 - :telescope: I study at Yandex Practicum and work in the largest advertising agency.
 
 - :zap: In my free time, I like to walk in nature. I study history and do woodcarving.
