@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78029&width=435&lines=I+am+a+Frontend+Developer+from+Russia." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78029&width=435&lines=I+am+a+Frontend+Developer." alt="Typing SVG" /></a>
 </h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
@@ -20,7 +20,9 @@
 ---
 
 ### About Me :
-- :telescope: I study at Yandex Practicum and work in the largest advertising agency.
+- :telescope: I completed my Yandex Workshop as a front-end developer. And now I’m looking for a job in this specialty.
+
+I participate in hackathons, team projects and my own projects..
 
 - :zap: In my free time, I like to walk in nature. I study history and do woodcarving.
 
