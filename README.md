@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78029&width=435&lines=I+am+Yaroslav+Frontend+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78029&width=435&lines=I+am+Yaroslav,+Frontend+Developer." alt="Typing SVG" /></a>
 </h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
@@ -20,11 +20,11 @@
 ---
 
 ### About Me :
-- :telescope: I completed my Yandex Practicum as a front-end developer. And now I’m looking for a job in this specialty.
+While still a student, I was interested in front-end development. I looked for clients and made landing pages for them.
 
-I participate in hackathons, team projects and my own projects..
+Worked in large IT companies, including responsibility for interaction with clients in the field of web development and UX/UI design. Through my projects, I realized that I enjoy working with the visual side of web applications and see the creative side of it.
 
-- :zap: In my free time, I like to walk in nature. I study history and do woodcarving.
+In my free time I do wood carving. I love nature and travel: Scandinavia, Northern European countries, Leningrad region and Karelia.
 
 - :mailbox:My contacts: [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
 [![Telegram Badge](https://img.shields.io/badge/-Yaroslav-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaroslav_chertov)
