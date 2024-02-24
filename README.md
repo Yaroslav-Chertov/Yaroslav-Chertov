@@ -6,8 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F78029&width=435&lines=I+am+Yaroslav,+Frontend+Developer." alt="Typing SVG" /></a>
 </h2>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="400"/>
