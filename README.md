@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey!
+  Привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2 align="center">
@@ -13,14 +13,14 @@
 
 ---
 
-### About Me :
+### О себе :
 С университетских лет занимался созданием лендингов, интернет-магазинов и сайтов-визиток (WordPress, Joomla, Tilda). Последние два года занимаюсь проектной деятельностью. Делаю сайты и веб-приложения (HTML, CSS, JS и React JS + остальные инструменты, в зависимости от задач).
 
 Кроме того, у меня есть опыт работы в смежных областях: аккаунт-менеджер в digital агентствах ONY и Nimax, специализирующихся на UX/UI-дизайне и разработке. Это дало мне понимание полного цикла разработки продукта и навыки эффективного взаимодействия с командами, включающими продакт-менеджеров, дизайнеров, аналитиков и разработчиков.
 
 В свободное время люблю кататься на гравийном велосипеде, путешествовать и исследовать культуру.
 
-- :mailbox:My contacts: [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
+- :mailbox:Контакты: [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
 [![Telegram Badge](https://img.shields.io/badge/-Yaroslav-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaroslav_chertov)
 
 ---
