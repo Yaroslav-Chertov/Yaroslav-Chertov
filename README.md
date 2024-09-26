@@ -15,7 +15,8 @@
 
 В свободное время люблю кататься на гравийном велосипеде, путешествовать и исследовать культуру.
 
-- :mailbox:Контакты: [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
+### Контакты : 
+[![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
 [![Telegram Badge](https://img.shields.io/badge/-Yaroslav-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaroslav_chertov)
 
 ---
