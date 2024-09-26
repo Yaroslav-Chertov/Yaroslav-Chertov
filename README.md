@@ -8,20 +8,20 @@
 <div id="badges" align="center">
 </div>
 
-### О себе :
+### О себе:
 С университетских лет занимался созданием лендингов, интернет-магазинов и сайтов-визиток (WordPress, Joomla, Tilda). Последние два года занимаюсь проектной деятельностью. Делаю сайты и веб-приложения (HTML, CSS, JS и React JS + остальные инструменты, в зависимости от задач).
 
 Кроме того, у меня есть опыт работы в смежных областях: аккаунт-менеджер в digital агентствах ONY и Nimax, специализирующихся на UX/UI-дизайне и разработке. Это дало мне понимание полного цикла разработки продукта и навыки эффективного взаимодействия с командами, включающими продакт-менеджеров, дизайнеров, аналитиков и разработчиков.
 
 В свободное время люблю кататься на гравийном велосипеде, путешествовать и исследовать культуру.
 
-### Контакты : 
+### Контакты: 
 [![Linkedin Badge](https://img.shields.io/badge/-Yaroslav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-chertov/)
 [![Telegram Badge](https://img.shields.io/badge/-Yaroslav-9cf?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaroslav_chertov)
 
 ---
 
-### Languages and Tools :
+### Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
