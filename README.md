@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/qN6VJTZ.png" alt="developer banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="animated grid" />
 </p>
 
 ---
