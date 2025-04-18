@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yaroslav-Chertov/Yaroslav-Chertov/main/assets/banner.png" alt="banner" width="80%" />
+  <img src="https://i.imgur.com/qN6VJTZ.png" alt="developer banner" width="80%" />
 </p>
 
 ---
