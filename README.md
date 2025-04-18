@@ -2,9 +2,9 @@
   Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F78029&center=true&width=435&lines=Меня+зовут+Ярослав;Frontend+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://github.com/Yaroslav-Chertov/Yaroslav-Chertov/assets/yourusername/yourgifid" alt="animated-banner" width="80%" />
+</p>
 
 <p align="center">
   <a href="https://t.me/yaroslav_chertov">
@@ -19,13 +19,12 @@
 
 ### 🙋‍♂️ О себе
 
-👨‍💻 Фронтенд-разработчик с опытом работы в крупнейшем digital-агентстве  
-💼 Работал аккаунт-менеджером в ONY, New Business Manager'ом в VK и Avito  
-🌍 Понимаю полный цикл разработки цифровых продуктов  
-🎯 Умею работать с заказчиком, дизайн-командой и бэкендом  
-🧰 Использую: HTML, CSS/SCSS, JavaScript, React, Vue, Tailwind  
-💡 Интересуюсь UI/UX, анимациями и производительностью  
-🎨 В свободное время катаюсь на велосипеде, путешествую и режу по дереву  
+👨‍💻 Фронтенд-разработчик с опытом в крупном digital-агентстве  
+💼 Бэкграунд в аккаунт-менеджменте (ONY), VK и Avito  
+🔁 Понимаю полный цикл разработки  
+🎯 Рабочий стек: HTML, SCSS, JavaScript, React, Vue  
+🛠 Специализируюсь на интерфейсах, анимациях и UI-полировке  
+🚴 Путешествия, вело, резьба по дереву — тоже часть жизни :)
 
 ---
 
@@ -46,20 +45,7 @@
 
 ---
 
-### 📫 Связаться со мной
-
-- Telegram: [@yaroslav_chertov](https://t.me/yaroslav_chertov)  
-- LinkedIn: [yaroslav-chertov](https://www.linkedin.com/in/yaroslav-chertov/)  
-- Email: _по желанию добавим_
-
----
-
-> “Frontend — это не только код, это впечатление от продукта.”  
-> — Ярослав
-
----
-
-### 🎨 Bonus: Ачивка GitHub
+### 🏆 GitHub Ачивки
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yaroslav-Chertov&theme=onedark&no-frame=true&title=Commit,PR,Repo,Followers" />
