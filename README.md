@@ -31,14 +31,6 @@ Frontend-разработчик с коммерческим опытом в ве
 
 ---
 
-### 🏆 Ачивки
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yaroslav-Chertov&theme=onedark&no-frame=true&title=Commit,PR,Repo,Followers" />
-</p>
-
----
-
 ### 📬 Контакты
 
 <p align="center">
