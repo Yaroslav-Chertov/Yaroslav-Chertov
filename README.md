@@ -1,5 +1,5 @@
 <h1 align="center">
-  Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  HEY!
 </h1>
 
 <p align="center">
@@ -8,17 +8,16 @@
 
 ---
 
-### О себе
+### About me
 
-Frontend-разработчик с коммерческим опытом в ведущем digital-агентстве ONY. 
+Frontend developer with commercial experience at the leading digital agency ONY. 
 
-Основной стек — React, TypeScript, Vue, SPA и SSR. Фокус — производительность, анимации и UX. Участвовал в разработке имиджевых и продуктовых сайтов для крупных брендов. 
+My core stack includes React, TypeScript, Vue, SPA, and SSR. I focus on performance, animations, and UX, and have contributed to the development of brand and product websites for major companies. 
 
-Имею бэкграунд в account-менеджменте, поэтому хорошо понимаю бизнес-цели, требования заказчиков и работу в агентской среде.
-
+I also have a background in account management, which helps me better understand business goals, client requirements, and the dynamics of working in an agency environment.
 ---
 
-### Стек и инструменты
+### My core stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,webpack,tailwind,bootstrap,jquery,nodejs,express,nginx,bash,git,github,postman,vscode,eslint" />
@@ -26,7 +25,7 @@ Frontend-разработчик с коммерческим опытом в ве
 
 ---
 
-### Контакты
+### Contacts
 
 <p align="center">
   <a href="https://t.me/yaroslav_chertov">
