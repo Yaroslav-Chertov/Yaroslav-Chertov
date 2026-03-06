@@ -8,13 +8,13 @@
 
 ---
 
-### 🙋‍♂️ О себе
+### О себе
 
 Frontend-разработчик с коммерческим опытом в ведущем digital-агентстве ONY. Основной стек — React, TypeScript, Vue, SPA и SSR. Фокус — производительность, анимации и UX. Участвовал в разработке имиджевых и продуктовых сайтов для крупных брендов. Имею бэкграунд в account-менеджменте, поэтому хорошо понимаю бизнес-цели, требования заказчиков и работу в агентской среде.
 
 ---
 
-### 🧰 Стек и инструменты
+### Стек и инструменты
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,webpack,tailwind,bootstrap,jquery,nodejs,express,nginx,bash,git,github,postman,vscode,eslint" />
@@ -22,16 +22,7 @@ Frontend-разработчик с коммерческим опытом в ве
 
 ---
 
-### 📈 GitHub Статистика
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yaroslav-Chertov&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaroslav-Chertov&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📬 Контакты
+### Контакты
 
 <p align="center">
   <a href="https://t.me/yaroslav_chertov">
