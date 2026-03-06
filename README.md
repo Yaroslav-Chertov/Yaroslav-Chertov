@@ -8,7 +8,7 @@
 
 ---
 
-### About me
+### About me:
 Frontend developer with commercial experience at the leading digital agency ONY. 
 
 My core stack includes React, TypeScript, Vue, SPA, and SSR. I focus on performance, animations, and UX, and have contributed to the development of brand and product websites for major companies. 
@@ -23,7 +23,7 @@ I also have a background in account management, which helps me better understand
 
 ---
 
-### Contacts
+### Contacts:
 
 <p align="center">
   <a href="https://t.me/yaroslav_chertov">
