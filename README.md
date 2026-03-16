@@ -13,9 +13,11 @@ Frontend developer with commercial experience at the leading digital agency ONY.
 
 My core stack includes React, TypeScript, Vue, SPA, and SSR. I focus on performance, animations, and UX, and have contributed to the development of brand and product websites for major companies. 
 
-I also have a background in account management, which helps me better understand business goals, client requirements, and the dynamics of working in an agency environment.### My core stack
+I also have a background in account management, which helps me better understand business goals, client requirements, and the dynamics of working in an agency environment.
 
 ---
+
+### My core stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,webpack,tailwind,bootstrap,jquery,nodejs,express,nginx,bash,git,github,postman,vscode,eslint" />
