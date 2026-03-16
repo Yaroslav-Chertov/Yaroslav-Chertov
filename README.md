@@ -17,7 +17,7 @@ I also have a background in account management, which helps me better understand
 
 ---
 
-### My core stack
+### My core stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,react,vue,webpack,tailwind,bootstrap,jquery,nodejs,express,nginx,bash,git,github,postman,vscode,eslint" />
