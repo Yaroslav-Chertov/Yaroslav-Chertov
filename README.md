@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  frontend developer · product-minded engineer
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
@@ -10,11 +14,11 @@
 
 ### about
 
-Frontend developer with commercial experience at a digital agency.
+Frontend developer with commercial experience in a digital agency environment.
 
-I build fast, clean and scalable interfaces with focus on **performance**, **UX** and **motion**.
+I build **fast, scalable and conversion-driven interfaces**, focusing on performance, UX quality and clean architecture.
 
-Background in account management helps me think in terms of product goals, not just UI.
+My background in account management helps me think in terms of **business goals and product outcomes**, not just UI implementation.
 
 ---
 
@@ -26,12 +30,34 @@ Background in account management helps me think in terms of product goals, not j
 
 ---
 
-### work focus
+### featured project
 
-- SPA / SSR applications  
-- performance & optimization  
-- UI engineering & animations  
-- product-driven development  
+#### Structura — SaaS productivity planner
+commercial product · full-cycle implementation
+
+- landing page with conversion-focused UX
+- lead capture (email / telegram)
+- email automation via Resend
+- payment flow via ЮKassa
+- automated access delivery
+
+**stack:** Next.js · React · TypeScript · SCSS
+
+<p align="center">
+  <a href="https://www.structuraplaner.ru/">
+    https://www.structuraplaner.ru/
+  </a>
+</p>
+
+---
+
+### focus
+
+- product-oriented frontend development  
+- SSR / SPA architecture (Next.js, React)  
+- performance & Core Web Vitals optimization  
+- UI engineering & micro-interactions  
+- conversion-focused landing pages  
 
 ---
 
@@ -39,16 +65,16 @@ Background in account management helps me think in terms of product goals, not j
 
 <p align="center">
   <a href="https://t.me/yaroslav_chertov">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  minimal frontend. maximum intent.
+  clean UI. real impact.
 </p>
