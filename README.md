@@ -30,27 +30,6 @@ My background in account management helps me think in terms of **business goals 
 
 ---
 
-### featured project
-
-#### Structura — SaaS productivity planner
-commercial product · full-cycle implementation
-
-- landing page with conversion-focused UX
-- lead capture (email / telegram)
-- email automation via Resend
-- payment flow via ЮKassa
-- automated access delivery
-
-**stack:** Next.js · React · TypeScript · SCSS
-
-<p align="center">
-  <a href="https://www.structuraplaner.ru/">
-    https://www.structuraplaner.ru/
-  </a>
-</p>
-
----
-
 ### focus
 
 - product-oriented frontend development  
