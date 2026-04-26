@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/yaroslav-chertov/">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.structuraplaner.ru">
-    <img src="https://img.shields.io/badge/Live%20Product-structuraplaner.ru-18181b?style=flat-square" />
-  </a>
 </p>
 
 ---
