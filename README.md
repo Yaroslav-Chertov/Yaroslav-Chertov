@@ -65,14 +65,6 @@ My background in account management across digital agencies (Yandex, Avito, VTB,
 
 ---
 
-### Currently
-
-- Building [Structura](https://www.structuraplaner.ru) — a commercial productivity planner
-- Exploring product management practices and AI-driven development workflows
-- Open to frontend / product-minded engineer roles
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
