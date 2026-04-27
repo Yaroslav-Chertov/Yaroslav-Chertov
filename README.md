@@ -62,9 +62,3 @@ My background in account management across digital agencies (Yandex, Avito, VTB,
 | [ONY Career Page](https://github.com/Yaroslav-Chertov/ony-agency) · [live](https://join.ony.ru) | JSX, SCSS, Express, Bitrix API | Career page for a leading design studio. Dynamic vacancy loading, feedback form → Bitrix CRM + Telegram notifications. Lighthouse 90+ |
 | [Stazher Online](https://github.com/Yaroslav-Chertov/hr-platform) · [live](https://stazher.online) | Vue 3, TypeScript, Pinia, SCSS | HR platform built in a product team. User dashboard, Tiptap rich-text editor, Chart.js analytics, JWT auth |
 | [Movies Explorer](https://github.com/Yaroslav-Chertov/movies-explorer-frontend) | React 18, Node.js, Express, MongoDB | Fullstack SPA. Own REST API, JWT auth, protected routes, bcrypt password hashing |
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
